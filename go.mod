@@ -7,7 +7,7 @@ require (
 	contrib.go.opencensus.io/exporter/stackdriver v0.12.1
 	github.com/Delta456/box-cli-maker/v2 v2.2.2
 	github.com/GoogleCloudPlatform/docker-credential-gcr v0.0.0-20210713212222-faed5e8b8ca2
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/trace v0.16.0
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/trace v0.20.1
 	github.com/Microsoft/hcsshim v0.8.17 // indirect
 	github.com/Parallels/docker-machine-parallels/v2 v2.0.1
 	github.com/VividCortex/godaemon v1.0.0
@@ -73,9 +73,9 @@ require (
 	github.com/xeipuuv/gojsonschema v0.0.0-20180618132009-1d523034197f
 	github.com/zchee/go-vmnet v0.0.0-20161021174912-97ebf9174097
 	go.opencensus.io v0.23.0
-	go.opentelemetry.io/otel v0.17.0
-	go.opentelemetry.io/otel/sdk v0.16.0
-	go.opentelemetry.io/otel/trace v0.17.0
+	go.opentelemetry.io/otel v0.20.0
+	go.opentelemetry.io/otel/sdk v0.20.0
+	go.opentelemetry.io/otel/trace v0.20.0
 	golang.org/x/build v0.0.0-20190927031335-2835ba2e683f
 	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
 	golang.org/x/exp v0.0.0-20210220032938-85be41e4509f
@@ -185,7 +185,7 @@ require (
 	github.com/xeipuuv/gojsonpointer v0.0.0-20180127040702-4e3ac2762d5f // indirect
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
 	github.com/xo/terminfo v0.0.0-20210125001918-ca9a967f8778 // indirect
-	go.opentelemetry.io/otel/metric v0.17.0 // indirect
+	go.opentelemetry.io/otel/metric v0.20.0 // indirect
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.17.0 // indirect
